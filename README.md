@@ -1,4 +1,8 @@
-# New Project
+This is an example of using Snowpack to convert a mp4 to gif. It converts to gif on the client side and you can observe the conversion by inspecting the console in the browser.
+
+For more information you can check out this tutorial: https://www.youtube.com/watch?v=-OTc0Ki7Sv0&t=306s by Fireship 
+
+The original source code is MIT licensed at https://github.com/fireship-io/react-wasm-gif-maker if you are interested.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
